@@ -1,2 +1,2 @@
 Practice file for Git. Moon facts, etc.
-Blah blah 
+Changing the file to explore GitHub 
